@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="admob_adUnitId">ca-app-pub-5735264719731428/1962009795</string>
+    <string name="admob_mediationId_Banner">ca-app-pub-5735264719731428/1962009795</string>
+    <string name="admob_mediationId_FullBanner">ca-app-pub-5735264719731428/1962009795</string>
+    <string name="admob_mediationId_Leaderboard">ca-app-pub-5735264719731428/1962009795</string>
+</resources>
